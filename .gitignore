@@ -48,6 +48,10 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Free Assets
+Content/InfinityBladeGrassLands/*
+Content/InfinityBladeWarriors/*
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
